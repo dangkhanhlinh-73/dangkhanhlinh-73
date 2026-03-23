@@ -2,7 +2,7 @@
 # ⚡About Me:
 
 
-Hi everyone, I'm **  Khánh Linh**, currently a student specializing in **Information Technology**. Thank you for visiting my Github page, I hope you will learn something useful from it!
+Hi everyone, I'm **Khánh Linh**, currently a student specializing in **Information Technology**. Thank you for visiting my Github page, I hope you will learn something useful from it!
 
 ## 🌐 Socials
 
