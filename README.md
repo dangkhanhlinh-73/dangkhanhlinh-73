@@ -26,7 +26,6 @@ Hi everyone, I'm **Khánh Linh**, currently a student specializing in **Informat
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-  
 </p>
 
 ## 📊 GitHub Stats :
