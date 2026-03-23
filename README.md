@@ -1,6 +1,8 @@
-# 👋 About Me :
 
-Hi everyone, I'm **Khánh Linh**, currently a student specializing in **Information Technology**. Thank you for visiting my Github page, I hope you will learn something useful from it!
+# ⚡About Me:
+
+
+Hi everyone, I'm ** Khánh Linh**, currently a student specializing in **Information Technology**. Thank you for visiting my Github page, I hope you will learn something useful from it!
 
 ## 🌐 Socials
 
@@ -35,6 +37,9 @@ Hi everyone, I'm **Khánh Linh**, currently a student specializing in **Informat
 <img src="https://img.shields.io/badge/Computer_Networking-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open_Source-grey?style=for-the-badge&logo=opensourceinitiative" />
 <img src="https://img.shields.io/badge/Operating_Systems-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Project_Management-BD1E24?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Discrete_Mathematics-blue?style=for-the-badge" />
 </p>
 
 ## 📊 GitHub Stats :
@@ -46,3 +51,6 @@ Hi everyone, I'm **Khánh Linh**, currently a student specializing in **Informat
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangkhanhlinh-73&theme=tokyonight" />
 </p>
+
+## ✍️ Random Dev Quote :
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
