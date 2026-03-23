@@ -1,13 +1,13 @@
 # 👋 About Me ⚡ :
 
-Hi everyone, I'm **Đặng Khánh Linh**! Welcome to my Github page. I'm a developer passionate about building interesting projects and learning new technologies. I hope you will find something useful here!
+Hi everyone, I'm **Khánh Linh**! Welcome to my Github page. I'm a developer passionate about building interesting projects and learning new technologies. I hope you will find something useful here!
 
 ## 🌐 Socials
 
 <p align="left">
 <a href="https://facebook.com/YOUR_USER" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href="https://instagram.com/YOUR_USER" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/YOUR_USER" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+
 </p>
 
 ## 💻 Tech Stack
