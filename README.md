@@ -1,7 +1,6 @@
 
 # ⚡About Me: 
-Hi everyone, I'm **Khánh Linh**, currently a student specializing in **Information Technology**. Thank you for visiting my Github page, I hope you will learn something useful from it!
-
+Hi everyone, I'm **Khánh Linh**, a Software Engineering student. I’m currently on a journey to explore Web and Mobile development. This Github is where I store my learning projects and track my daily progress. Nice to meet you!
 ## 🌐 Socials
 <p align="left">
 <a href="https://www.facebook.com/khanhlinh070304"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"></a>
